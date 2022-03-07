@@ -4,9 +4,10 @@ Created on Mon Mar  7 20:19:29 2022
 
 @author: amrit
 """
+"""from math import pi"""
 
 radius = float(input("Enter radius of the circle : "))
 
-area = 3.14 * (radius**2)
+area = 3.14 * (radius**2)  """area = pi * (radius**2)"""
 
 print("Area of the circle is: ", area)
