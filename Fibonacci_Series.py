@@ -5,7 +5,7 @@ Created on Mon Mar 14 20:33:20 2022
 @author: amrit
 """
 
-# Factorial Program
+# Fibonacci Series Program
 
 n = int(input("Enter Number of Terms: "))
 
