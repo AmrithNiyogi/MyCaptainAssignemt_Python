@@ -1,0 +1,19 @@
+Requirements Elicitation and Analysis
+-----------------------------------------------------------------------
+
+SRS (Software Requirements and Specification Document)
+-----------------------------------------------------------------------
+1. The Login form will ask for a USERNAME and PASSWORD combination which will be verified before user is allowed to enter website.
+2. The Sign Up form will contain EMAIL, USERNAME and PASSWORD fields, all of which are compulsory to enter.
+3. The user should be able to view the products as a list. It should display the product PICTURE, NAME, CATEGORY and a SMALL DESCRIPTION. The user should be able to CLICK on a product to view full details.
+4. This page should display ALL THE DETAILS OF THE PRODUCT.
+	Details : PICTURE, NAME, CATEGORY, SUBCATEGORY, PRICE, UNITS, DESCRIPTION
+5. The user should be allowed to add a product to the cart from the Details page
+6. The user can view all the products that they've added along with the total price of the entire order.
+7. The order will processed after the user makes the payment successsfully
+
+Ideal : The signup form will contain a USER BIRTHDAY FIELD which will be in the format DD-MM-YYYY and it is compulsory for thr user to fill.
+
+(i) Functional
+(ii) Non-Functional
+(iii) Stakeholder
